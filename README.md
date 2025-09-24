@@ -10,15 +10,10 @@ Structured ~10K records of sales, profit, and discounts
 
 Built interactive Tableau dashboards for:
 
-Sales by Category & Region
-
-Profitability by Product Segment
-
-Monthly & Yearly Profit and Sales Trends
-
-Discount impact on Sales & Profit
+Sales by Category & Region, Profitability by Product Segment, Monthly & Yearly Profit and Sales Trends, Discount impact on Sales & Profit
 
 Designed the dashboards to highlight key inefficiencies and business opportunities
+
 
 **Results & Insights**
 
